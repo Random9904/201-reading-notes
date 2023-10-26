@@ -5,3 +5,5 @@
 [Class 3: Issue Tracking System](https://github.com/Random9904/201-reading-notes/wiki/Class-3:-Issue-Tracking-System)
 
 [Class 4: Troubleshooting Methodology](https://github.com/Random9904/201-reading-notes/wiki/Class-4:-Troubleshooting-Methodology)
+
+[Class 5: Windows Command Line Tools](https://github.com/Random9904/201-reading-notes/wiki/Class-5:-Windows-Command-Line-Tools)
