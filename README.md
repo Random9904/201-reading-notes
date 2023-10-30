@@ -7,3 +7,5 @@
 [Class 4: Troubleshooting Methodology](https://github.com/Random9904/201-reading-notes/wiki/Class-4:-Troubleshooting-Methodology)
 
 [Class 5: Windows Command Line Tools](https://github.com/Random9904/201-reading-notes/wiki/Class-5:-Windows-Command-Line-Tools)
+
+[Class 6: Windows Security Center](https://github.com/Random9904/201-reading-notes/wiki/Class-6:-Windows-Security-Center)
