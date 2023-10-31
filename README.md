@@ -9,3 +9,5 @@
 [Class 5: Windows Command Line Tools](https://github.com/Random9904/201-reading-notes/wiki/Class-5:-Windows-Command-Line-Tools)
 
 [Class 6: Windows Security Center](https://github.com/Random9904/201-reading-notes/wiki/Class-6:-Windows-Security-Center)
+
+[Class 7: OS Upgrade and Remote Access](https://github.com/Random9904/201-reading-notes/wiki/Class-7:-OS-Upgrade-and-Remote-Access)
