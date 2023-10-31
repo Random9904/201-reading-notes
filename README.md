@@ -11,3 +11,5 @@
 [Class 6: Windows Security Center](https://github.com/Random9904/201-reading-notes/wiki/Class-6:-Windows-Security-Center)
 
 [Class 7: OS Upgrade and Remote Access](https://github.com/Random9904/201-reading-notes/wiki/Class-7:-OS-Upgrade-and-Remote-Access)
+
+[Class 8: System Log Analysis, Registry, Control Panel](https://github.com/Random9904/201-reading-notes/wiki/Class-8:-System-Log-Analysis,-Registry,-Control-Panel)
