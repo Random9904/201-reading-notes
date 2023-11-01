@@ -13,3 +13,5 @@
 [Class 7: OS Upgrade and Remote Access](https://github.com/Random9904/201-reading-notes/wiki/Class-7:-OS-Upgrade-and-Remote-Access)
 
 [Class 8: System Log Analysis, Registry, Control Panel](https://github.com/Random9904/201-reading-notes/wiki/Class-8:-System-Log-Analysis,-Registry,-Control-Panel)
+
+[Class 9: Workstation Deployment SOP](https://github.com/Random9904/201-reading-notes/wiki/Class-9:-Workstation-Deployment-SOP)
