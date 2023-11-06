@@ -19,3 +19,5 @@
 [Class 10: Imaging, Backup, and Recovery](https://github.com/Random9904/201-reading-notes/wiki/Class-10:-Imaging,-Backup,-and-Recovery)
 
 [Class 11: Data Restoration, Startup Repair, and Secure Disposal](https://github.com/Random9904/201-reading-notes/wiki/Class-11:-Data-Restoration,-Startup-Repair,-and-Secure-Disposal)
+
+[Class 12: Virtualizing a Router with pfSense](https://github.com/Random9904/201-reading-notes/wiki/Class-12:-Virtualizing-a-Router-with-pfSense)
